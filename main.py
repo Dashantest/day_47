@@ -19,3 +19,4 @@ if __name__ == '__main__':
         # settings.TEST_CASE_DIR
         r'C:\Users\zhengshan\Desktop\day_47\testcases\app'
     ])
+# jjffjfj
